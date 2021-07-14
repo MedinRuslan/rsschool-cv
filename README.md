@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MedinRuslan.github.io/rsschool-cv/cv
