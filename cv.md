@@ -16,7 +16,7 @@
 
 --- 
 
-## Skils:
+## Skills:
 
 1. Programming Skills
 - HTML

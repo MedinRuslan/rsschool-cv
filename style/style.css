@@ -1,0 +1,53 @@
+body {
+    background-image: url(https://p0.pikist.com/photos/145/394/bricks-wall-material-rough-brickwall-backdrop-block-brickwork.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.header {
+    text-align: center;
+}
+
+.main-div {
+    background-color: burlywood;
+    width: 1000px;
+    margin: 0 auto;
+    border-radius: 0 0 3% 3%;
+    border: solid black 3px;
+}
+
+section {
+    margin: auto 4%;
+}
+
+.image {
+    border-radius: 58%;
+    width: 150px;
+    height: 160px;
+}
+
+header {
+    background-image: url(https://wallbox.ru/wallpapers/preview/201128/708aaa8191ea150221e13c072e6626e0.jpg);
+    border-bottom: solid rgb(206, 198, 198) 3px;
+}
+
+h2 {
+    font-size: 27px;
+}
+
+h1 {
+    color: white;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+}
+
+hr {
+    border-top: 3px solid black;
+}
+
+.li {
+    list-style-type: none;
+}
